@@ -6,11 +6,16 @@ This repository contains the implementation of "Learning Enhanced Structural Rep
 
 High-resolution bathymetric data is crucial for accurate ocean modeling and coastal hazard prediction, yet current global datasets remain too coarse for precise numerical simulations. While recent deep learning advances have improved earth observation data resolution, existing methods struggle with the unique challenges of generating detailed ocean floor maps, particularly in maintaining physical structure consistency and quantifying uncertainties. This paper proposes a novel uncertainty-aware Vector Quantized Variational Autoencoder with block-based conformal prediction that brings the power of discrete latent representations to generate refined bathymetry images while localizing uncertainty estimates. The architecture proposed here incorporates residual attention mechanisms with learned codebooks, aiming to capture a range of topographical features and allowing spatially adaptive prediction intervals at the block level. Experimental results show significant improvements across ocean regions and depth ranges within the generated refined bathymetry and locally calibrated uncertainty quantification.
 
-![Model Comparison in 2D](assets/Uncertainty Comparison of Models (2d).png)
-
-![Model Comparison in 3D](assets/Uncertainty Comparison of Models (3d).png)
-
 *Comparison of different models: Input, Ground Truth, and predictions from SRCNN, ESRGAN, and VQVAE with their respective uncertainty estimates.*
+
+**_Model Comparison in 3D_**
+
+![Model Comparison in 3D](assets/Uncertainty%20Comparison%20of%20Models%20(3d).png?raw=true)
+
+**_Model Comparison in 2D_**
+
+![Model Comparison in 2D](assets/Uncertainty%20Comparison%20of%20Models%20(2d).png?raw=true)
+
 
 ## Citation
 
