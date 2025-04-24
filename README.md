@@ -1,4 +1,6 @@
 # Ocean Floor Mapping with Uncertainty-Aware Deep Learning
+## ICLR 2025 Tackling Climate Change with Machine Learning Workshop - Accepted
+
 
 This repository contains the implementation of "Learning Enhanced Structural Representations with Block-Based Uncertainties for Ocean Floor Mapping", a deep learning approach for enhancing bathymetric data resolution while providing calibrated uncertainty estimates.
 
