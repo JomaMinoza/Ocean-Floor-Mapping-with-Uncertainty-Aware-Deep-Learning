@@ -14,7 +14,7 @@ Accurate ocean modeling and coastal hazard prediction depend on high-resolution 
 
 ![Model Comparison in 2D](https://github.com/JomaMinoza/Ocean-Floor-Mapping-with-Uncertainty-Aware-Deep-Learning/blob/d9cd1f094e48cc84b5e9346ad1785c9f25034e19/assets/Fig%202%20-%20Uncertainty%20Comparison%20of%20Models.png)
 
-**_Model Results**
+**Model Results**
 
 **Uncertainty Aware SRCNN Results**
 
@@ -49,6 +49,15 @@ Accurate ocean modeling and coastal hazard prediction depend on high-resolution 
 If you use this code in your research, please cite:
 
 ```bibtex
+@inproceedings{minoza2025learning,
+  title={Learning Enhanced Structural Representations with Block-Based Uncertainties for Ocean Floor Mapping},
+  author={Minoza, Jose Marie Antonio},
+  booktitle={ICLR 2025 Workshop on Tackling Climate Change with Machine Learning},
+  url={https://www.climatechange.ai/papers/iclr2025/14},
+  doi = {10.48550/arxiv.2504.14372}
+  year={2025}
+}
+
 @inproceedings{ocean-floor-mapping2025,
   title={Learning Enhanced Structural Representations with Block-Based Uncertainties for Ocean Floor Mapping},
   author={Jose Marie Antonio Minoza},
