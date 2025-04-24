@@ -211,15 +211,6 @@ If you use this code in your research, please cite:
   year={2025}
 }
 
-@inproceedings{ocean-floor-mapping2025,
-  title={Learning Enhanced Structural Representations with Block-Based Uncertainties for Ocean Floor Mapping},
-  author={Jose Marie Antonio Minoza},
-  booktitle={ICLR Workshop on Tackling Climate Change with Machine Learning},
-
-  year={2025}
-
-}
-
 @misc{ocean-floor-mapping2025_modelzoo,
   doi = {10.5281/ZENODO.15272540},
   author = {Minoza, Jose Marie Antonio},
