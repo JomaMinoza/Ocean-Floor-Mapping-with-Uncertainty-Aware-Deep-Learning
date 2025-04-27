@@ -2,8 +2,8 @@
 
 **[ICLR 2025 Tackling Climate Change with Machine Learning Workshop - Accepted Paper]**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/ZENODO.15272540.svg)](https://doi.org/10.5281/ZENODO.15272540)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.14372-b31b1b.svg)](https://arxiv.org/abs/2504.14372)
+[![Models](https://zenodo.org/badge/DOI/10.5281/ZENODO.15272540.svg)](https://doi.org/10.5281/ZENODO.15272540)
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-Ocean%20Floor%20Bathymetry-blue)](https://huggingface.co/datasets/jomaminoza/global-ocean-floor-bathymetry-enhancement-dataset)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
