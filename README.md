@@ -4,6 +4,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/ZENODO.15272540.svg)](https://doi.org/10.5281/ZENODO.15272540)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.14372-b31b1b.svg)](https://arxiv.org/abs/2504.14372)
+[![Dataset](https://img.shields.io/badge/🤗%20Dataset-Ocean%20Floor%20Bathymetry-blue)](https://huggingface.co/datasets/jomaminoza/global-ocean-floor-bathymetry-enhancement-dataset)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository provides the official implementation of "Learning Enhanced Structural Representations with Block-Based Uncertainties for Ocean Floor Mapping" (ICLR 2025 - Tackling Climate Change with ML Workshop). This study proposed a novel block-based uncertainty awareness mechanism during training, which when integrated with the Vector Quantized Variational Autoencoder (VQ-VAE) architecture, achieves superior bathymetric enhancement while preserving critical seafloor structures, enabling more accurate climate modeling and coastal hazard assessment.
