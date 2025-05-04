@@ -5,7 +5,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.14372-b31b1b.svg)](https://arxiv.org/abs/2504.14372)
 [![Models](https://zenodo.org/badge/DOI/10.5281/ZENODO.15272540.svg)](https://doi.org/10.5281/ZENODO.15272540)
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-Ocean%20Floor%20Bathymetry-blue)](https://huggingface.co/datasets/jomaminoza/global-ocean-floor-bathymetry-enhancement-dataset)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
 This repository provides the official implementation of "Learning Enhanced Structural Representations with Block-Based Uncertainties for Ocean Floor Mapping" (ICLR 2025 - Tackling Climate Change with ML Workshop). This study proposed a novel block-based uncertainty awareness mechanism during training, which when integrated with the Vector Quantized Variational Autoencoder (VQ-VAE) architecture, achieves superior bathymetric enhancement while preserving critical seafloor structures, enabling more accurate climate modeling and coastal hazard assessment.
 
@@ -228,14 +229,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details
 
 ## Acknowledgments
 
 - GEBCO for providing bathymetric data
 - The ICLR Tackling Climate Change with Machine Learning workshop organizers
-- System Modelling and Simulation Laboratory, University of the Philippines
 - Center for AI Research, Department of Education, Philippines
+- System Modelling and Simulation Laboratory, University of the Philippines
 
 ## Contact
 
